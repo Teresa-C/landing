@@ -1,0 +1,16 @@
+.banner-img{
+  background-size: cover;
+  background-position: center;
+  padding: 400px;
+  text-shadow: 1px 1px 3px rgb(0 0 0 / 20%);
+  position: relative;
+}
+
+.banner-content{
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  bottom: 300px;
+  left: 100px;
+}
+
